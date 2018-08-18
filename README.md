@@ -1,0 +1,2 @@
+# javaTraining
+My first project
